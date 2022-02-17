@@ -1,5 +1,7 @@
 # 350-901 DEVCOR exam topics
 
+The exam topics below were exported from <https://developer.cisco.com/certification/exam-topic-core/>.
+
 ## 1.0 Software Development and Design 20%
 
 - [ ] 1.1 Describe distributed applications related to the concepts of front-end, back-end, and load balancing
